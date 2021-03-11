@@ -7,7 +7,9 @@ A match-3 style game with animal tiles, music, and some other juicy features to 
 Music, sound effects, particles, screen shake, timer, score, animal tiles, etc.
 
 Animal pack Redux from Kenney.nl (https://kenney.nl/assets/animal-pack-redux)
+
 Puzzle pack 2 (for particles) from Kenney.nl (https://kenney.nl/assets/puzzle-pack-2)
+
 Font from fontesk.com (https://fontesk.com/nepszabadsag-font/)
 
 ## References
